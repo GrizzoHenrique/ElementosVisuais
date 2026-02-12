@@ -1,4 +1,4 @@
-# Modelagem Preditiva - Classificação
+# Análise de Crédito - Módulo 12
 **Este repositório contém um projeto de análise de dados desenvolvido durante o Módulo 12 do curso de Ciência de Dados. O objetivo principal é identificar os principais impulsionadores para a concessão de altos limites de crédito**
 
 ### Objetivo:
